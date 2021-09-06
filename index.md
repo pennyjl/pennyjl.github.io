@@ -6,6 +6,10 @@
 
 이화여자대학교
 
+아래 쪽은 코드 블럭입니다.
+
+문서 내에서 코드를 예쁘게 표현합니다.
+
 ```markdown
 Syntax highlighted code block
 
@@ -24,12 +28,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+자세한 마크다운 사용법은 아래 링크를 확인해주세요.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pennyjl/pennyjl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
