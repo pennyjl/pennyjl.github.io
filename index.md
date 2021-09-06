@@ -6,6 +6,8 @@
 
 이화여자대학교
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 아래 쪽은 코드 블럭입니다.
 
 문서 내에서 코드를 예쁘게 표현합니다.
